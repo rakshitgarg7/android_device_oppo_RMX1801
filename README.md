@@ -4,6 +4,8 @@ Device Tree for Realme 2 Pro
 The Realme 2 Pro (codenamed _"RMX1801"_) is a mid-range smartphone from Realme.
 It was announced in September 2018
  
+This device tree is being used to build HavocOS, crDroid and Derpfest.
+ 
 ## Device specifications
 
 Basic   | Spec Sheet
