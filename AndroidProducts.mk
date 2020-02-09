@@ -17,4 +17,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_RMX1801.mk \
     $(LOCAL_DIR)/aosp_RMX1801.mk \
-	$(LOCAL_DIR)/havoc_RMX1801.mk
+	$(LOCAL_DIR)/havoc_RMX1801.mk \
+	$(LOCAL_DIR)/derp_RMX1801.mk
